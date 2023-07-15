@@ -31,7 +31,6 @@ def handle_enter(event):
     df = pd.DataFrame(data)
     model_answer = get_answer(table=df.astype(str), query=question.get())
     answer.configure(text=model_answer['answer'])
-    question.set('')
 
 # initialize table view
 table = ttk.Treeview(root, columns=('name', 'age', 'result'), show='headings')
