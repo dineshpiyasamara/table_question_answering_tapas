@@ -14,8 +14,7 @@ Compared to BERT, TAPAS uses relative position embeddings and has 7 token types 
 
 [Read more about `TAPAS` model from `HuggingFace`](https://huggingface.co/docs/transformers/model_doc/tapas)
 
-
-![Sample from demo](https://github.com/dineshpiyasamara/table_question_answering_tapas/blob/master/sample.png)
+### Sample image from Demo
 
 <p align="center">
   <img src="https://github.com/dineshpiyasamara/table_question_answering_tapas/blob/master/sample.png" alt="Sample from demo">
