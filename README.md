@@ -8,6 +8,7 @@ It’s a BERT-based model specifically designed (and pre-trained) for answering 
 Compared to BERT, TAPAS uses relative position embeddings and has 7 token types that encode tabular structure. TAPAS is pre-trained on the masked language modeling (MLM) objective on a large dataset comprising millions of tables from English Wikipedia and corresponding texts.
 
 <br>
+
 ### TAPAS has been fine-tuned on several datasets:
 - SQA (Sequential Question Answering by Microsoft)
 - WTQ (Wiki Table Questions by Stanford University)
@@ -16,6 +17,7 @@ Compared to BERT, TAPAS uses relative position embeddings and has 7 token types 
 [Read more about `TAPAS` model from `HuggingFace`](https://huggingface.co/docs/transformers/model_doc/tapas)
 
 <br>
+
 ### Sample image from Demo
 
 <p align="center">
